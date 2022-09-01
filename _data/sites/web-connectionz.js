@@ -11,5 +11,6 @@ module.exports = {
     "https://iportfolio-11ty-sanity.netlify.app",
     "https://flex-11ty-sanity.netlify.app",
     "https://nova-11ty-sanity.netlify.app",
+		"https://www.kats.co.nz"
 	]
 };
