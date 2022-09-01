@@ -7,7 +7,7 @@ module.exports = {
 	},
 	urls: [
 		"https://martyn-cook.netlify.app",
-    "https://solutions-online.co.nz",
+    "https://www.solutions-online.co.nz",
     "https://iportfolio-11ty-sanity.netlify.app",
     "https://flex-11ty-sanity.netlify.app",
     "https://nova-11ty-sanity.netlify.app",
