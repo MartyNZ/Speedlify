@@ -1,6 +1,6 @@
 module.exports = {
-	name: "Web Connectionz", // optional, falls back to object key
-	description: "Web Connectionz websites under management",
+	name: "web-connectionz", // optional, falls back to object key
+	description: "Web Connectionz",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
     freshChrome: "run"
