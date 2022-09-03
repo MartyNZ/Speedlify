@@ -10,10 +10,6 @@ module.exports = {
     "https://www.solutions-online.co.nz",
     "https://iportfolio-11ty-sanity.netlify.app",
     "https://flex-11ty-sanity.netlify.app",
-    "https://nova-11ty-sanity.netlify.app",
-		"https://www.kats.co.nz",
-		"https://www.vess.co.nz",
-		"https://www.terotek.co.nz",
-		"https://www.taikata.co.nz"
+    "https://nova-11ty-sanity.netlify.app"
 	]
 };
