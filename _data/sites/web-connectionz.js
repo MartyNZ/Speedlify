@@ -13,7 +13,7 @@ module.exports = {
     "https://nova-11ty-sanity.netlify.app",
 		"https://www.kats.co.nz",
 		"https://www.vess.co.nz",
-		"https://terotek.co.nz",
+		"https://www.terotek.co.nz",
 		"https://www.taikata.co.nz"
 	]
 };
