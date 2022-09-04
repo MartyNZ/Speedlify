@@ -1,15 +1,15 @@
 module.exports = {
 	name: "aurora-nz", // optional, falls back to object key
-	description: "Aurora NZ's website colelction",
+	description: "Aurora NZ's website collection",
 	options: {
-		frequency: 60 * 12, // (in minutes), 23 hours
+		frequency: 60 * 23, // (in minutes), 23 hours
     freshChrome: "run"
 	},
 	urls: [
-		"http://beautyquip.kiwi/",
-    "http://www.auroratables.co.nz/",
-    "http://www.auroranz.com/",
-    "http://www.purefx.co.nz/",
+		"https://beautyquip.kiwi/",
+    "https://www.auroratables.co.nz/",
+    "https://www.auroranz.com/",
+    "https://www.purefx.co.nz/",
     "https://www.getyourcrafton.co.nz"
 	]
 };

@@ -2,7 +2,7 @@ module.exports = {
 	name: "web-connectionz", // optional, falls back to object key
 	description: "Web Connectionz",
 	options: {
-		frequency: 60 * 12, // (in minutes), 23 hours
+		frequency: 60 * 23, // (in minutes), 23 hours
     freshChrome: "run"
 	},
 	urls: [
