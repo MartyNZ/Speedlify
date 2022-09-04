@@ -2,7 +2,7 @@ module.exports = {
 	name: "client-research", // optional, falls back to object key
 	description: "Sites of existing and prospective clients",
 	options: {
-		frequency: 60 * 23,
+		frequency: 60 * 12,
 		freshChrome: "run"
 	},
 	urls: [
