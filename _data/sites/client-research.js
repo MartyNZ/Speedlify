@@ -7,8 +7,10 @@ module.exports = {
 	},
 	urls: [
 		"https://www.kats.co.nz",
+		"https://kats-nz.netlify.app/",
 		"https://www.vess.co.nz",
 		"https://www.terotek.co.nz",
+		"https://terotek.netlify.app/",
 		"https://taikata.co.nz",
 		"https://www.beckenhambeauty.co.nz"
 	]
