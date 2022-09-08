@@ -6,7 +6,7 @@ module.exports = {
     freshChrome: "run"
 	},
 	urls: [
-		"https://martyn-cook.netlify.app",
+		"https://martyn.thecooks.net.nz",
     "https://www.solutions-online.co.nz",
     "https://iportfolio-11ty-sanity.netlify.app",
     "https://flex-11ty-sanity.netlify.app",
