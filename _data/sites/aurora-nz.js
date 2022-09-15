@@ -2,7 +2,7 @@ module.exports = {
 	name: "aurora-nz", // optional, falls back to object key
 	description: "Aurora NZ's website collection",
 	options: {
-		frequency: 60 * 23, // (in minutes), 23 hours
+		frequency: 60 * 6, // (in minutes), 23 hours
     freshChrome: "run"
 	},
 	urls: [
