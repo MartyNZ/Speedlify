@@ -10,6 +10,7 @@ module.exports = {
     "https://www.solutions-online.co.nz",
     "https://iportfolio.webconnectionz.com",
     "https://flex.webconnectionz.com",
-    "https://nova.webconnectionz.com"
+    "https://nova.webconnectionz.com",
+    "https://webconnectionz.com"
 	]
 };
