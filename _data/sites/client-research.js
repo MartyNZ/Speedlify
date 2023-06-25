@@ -9,8 +9,7 @@ module.exports = {
 		"https://www.kats.co.nz",
 		"https://kats-nz.netlify.app/",
 		"https://www.vess.co.nz",
-		"http://www.terotek.co.nz",
-		"https://terotek.netlify.app/",
+		"http://terotek.co.nz",
 		"https://taikata.co.nz",
 		"https://www.beckenhambeauty.co.nz"
 	]
