@@ -7,10 +7,10 @@ module.exports = {
 	},
 	urls: [
 		"https://martyn.thecooks.net.nz",
-    "https://www.solutions-online.co.nz",
     "https://iportfolio.webconnectionz.com",
     "https://flex.webconnectionz.com",
     "https://nova.webconnectionz.com",
-    "https://webconnectionz.com"
+    "https://webconnectionz.com",
+		"https://digitalart.kiwi"
 	]
 };
